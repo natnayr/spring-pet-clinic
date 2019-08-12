@@ -1,1 +1,1 @@
-spring-pet-clinic
+springframework guru: pet-clinic project
